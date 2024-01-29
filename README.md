@@ -1,6 +1,6 @@
 # Java GUI application
 
-### Partie I
+### Partie I [(Compteur)](src/compteur)
 
 1. Ecrire un application java/swing qui permet de:
     * incrémenter un compteur

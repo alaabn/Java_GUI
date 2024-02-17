@@ -2,9 +2,9 @@
 
 Assignments Done at the end of the intorduction to Java GUI Programming
 
-## Content:
+## Content
 
- * [Compteur](src/compteur)
- * [Converter](src/converter)
- * [Calculator](src/calculator)
- * [Gestion Etudiant](src/gestionEtudiant)
+* [Compteur](src/compteur)
+* [Converter](src/converter)
+* [Calculator](src/calculator)
+* [Gestion Etudiant](src/gestionEtudiant)
